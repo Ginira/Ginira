@@ -1,7 +1,7 @@
 ### <div align="center">Hello👋 I'm Irina, a Frontend Developer 👩‍💻</div>  
   
 
-👀 I'm interested in web development, running, traveling  
+👀 Interested in web development, running and traveling  
   
 
 📫 How to reach me clo3er@gmail.com  
@@ -40,4 +40,5 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ginira&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 [![codewars](https://www.codewars.com/users/GinIra/badges/micro)](https://www.codewars.com/users/GinIra)
